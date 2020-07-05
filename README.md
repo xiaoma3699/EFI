@@ -6,3 +6,4 @@ GIGABYTE-X299X DESIGNARE 10G
 安装94360CD wifi 蓝牙 隔空投送正常
 bios 采用F3b  
 可以刷入雷电修改好的固件 更完美支持OS系统
+opencore-0.5.9
